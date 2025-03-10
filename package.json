@@ -1,0 +1,26 @@
+{
+  "name": "join_us",
+  "version": "1.0.0",
+  "description": "Build anticipation for your product launch with a sleek web app that collects email addresses, ensuring your audience stays informed and excited!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaouresTahri/Join_Us.git"
+  },
+  "author": "Naoures Tahri naoures.tahri@esprit.tn",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NaouresTahri/Join_Us/issues"
+  },
+  "homepage": "https://github.com/NaouresTahri/Join_Us#readme",
+  "dependencies": {
+    "@faker-js/faker": "^9.6.0",
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0"
+  }
+}
